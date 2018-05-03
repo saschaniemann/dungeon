@@ -7,7 +7,7 @@ public class LifePointController : MonoBehaviour {
 	//public GUIText lpText;	//GUIElement
 	public Text lpText;			//uGUI
 	private int lifePoints = 0;
-	
+
 	public int LifePoints 
 	{
 		get 
